@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\bin\Debug\net7.0\patika_strmethod.exe
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\bin\Debug\net7.0\patika_strmethod.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\bin\Debug\net7.0\patika_strmethod.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\bin\Debug\net7.0\patika_strmethod.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\bin\Debug\net7.0\patika_strmethod.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\refint\patika_strmethod.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\patika_strmethod.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patika_strmethod\obj\Debug\net7.0\ref\patika_strmethod.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "patika_strmethod/1.0.0": {
+        "runtime": {
+          "patika_strmethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "patika_strmethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
